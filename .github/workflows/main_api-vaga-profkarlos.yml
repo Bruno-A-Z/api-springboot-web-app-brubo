@@ -50,4 +50,4 @@ jobs:
           app-name: 'api-vaga-profkarlos'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_99957DA17ABE4D2FA0E421F8DC69AD29 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D106EA1BA9704E1AAC21A643DC2ED6A7 }}
